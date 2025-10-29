@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zeeshanhaidar688
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on software and web development
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on artificial intelligence, machine learning, deep learning, and natural language preprocessing
 - 📫 Reach me on whatsapp +923039488086
 
 <!---
