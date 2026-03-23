@@ -2,7 +2,6 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on artificial intelligence, machine learning, deep learning, and natural language preprocessing
-- 📫 Reach me on whatsapp +923039488086
 
 <!---
 zeeshanhaidar688/zeeshanhaidar688 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
