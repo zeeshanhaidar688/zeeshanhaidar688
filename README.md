@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zeeshanhaidar688
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning python
+- 👀 I’m interested in python, api integration, database, dsa
+- 🌱 I’m currently building AI projects explaining Machine Learning, Deep Learning, Data Structure Algorithms
 - 💞️ I’m looking to collaborate on artificial intelligence, machine learning, deep learning, and natural language preprocessing
 
 <!---
